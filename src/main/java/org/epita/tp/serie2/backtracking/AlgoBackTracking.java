@@ -10,6 +10,7 @@ public class AlgoBackTracking {
 
     public AlgoBackTracking(int dimensionPlateau) {
 
+
     }
 
     public AlgoBackTracking(List<String> arrayList, int dimensionPlateau) {

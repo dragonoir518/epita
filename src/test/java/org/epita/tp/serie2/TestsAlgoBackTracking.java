@@ -1,5 +1,6 @@
 package org.epita.tp.serie2;
 
+import org.epita.tp.serie1.ExercicesSupplementaires;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
@@ -9,7 +10,8 @@ public class TestsAlgoBackTracking {
 
     @Test
     public void test_exercice2_1_1(){
-        //Copie
+
+
     }
 
     @Test
