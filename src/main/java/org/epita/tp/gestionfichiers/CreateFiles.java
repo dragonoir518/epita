@@ -74,7 +74,7 @@ public class CreateFiles {
 
           for (int j = 0; j < mots.length; j++) {
                 String motNettoyage=mots[j];
-                tableauDesMots.add(motNettoyage.replaceAll("[.\\-!?]",""));
+                tableauDesMots.add(motNettoyage.replaceAll("[.,\\-!?]",""));
           }
         }
 
